@@ -9,6 +9,7 @@ Notre projet met de l'avant une nouvelle émission inspiré des Super Nanas, mai
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![image](https://github.com/Patricia642/exempleJournalDeBord/assets/143467934/ea515fce-7428-45c7-8824-6d681972c2ac)
 
 
 
